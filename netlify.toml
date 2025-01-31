@@ -1,4 +1,4 @@
 [[headers]]
-  for = "/infrastructure/index.js"
+  for = "/infrastructure/infrastructure.js"
   [headers.values]
     Content-Type = "application/javascript"
